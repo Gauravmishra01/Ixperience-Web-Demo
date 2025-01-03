@@ -178,9 +178,9 @@ html, body {
     /* justify-content: space-between; */
     width: 100%;
     gap: 50px;
-    margin-top: 30%;
+    margin-top: 25%;
     padding-left: 30vw;
-    padding: 10vw 20vw;
+    padding: 10vw 30vw;
     background-color: black;
 }
 
